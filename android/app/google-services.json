@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "869169310973",
+    "project_id": "prooftrack-4eade",
+    "storage_bucket": "prooftrack-4eade.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:869169310973:android:70569729e4905e38aa2294",
+        "android_client_info": {
+          "package_name": "com.example.prooftrack2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBCqYOCpTOw5He8NULQW5tq-DNWF7Y6LBc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
